@@ -4,7 +4,7 @@ Repositório para o Projeto da matéria de Gerenciamento de Projetos do grupo 6.
 # Objetivo:
 Criar uma interface front/back end semelhante ao aplicativo de vídeos "YouTube".
 
-PO: 
+Project Owner: 
 - Guilherme Luiz Negro;
 
 Membros:
